@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnpuaXExdGd4NXQ0NGN6eThwNjFsY2RhdHlxd3JkOGdrN25mOWxiOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o4ol10gKdcKdueRxyZ/giphy.gif" width="400">
+</p>
+
+
 # 💫 About Me:
 🔭 I’m currently working on Full Stack web<br>👯 I’m looking to collaborate on Full Stack and IoT Projects<br>🌱 I’m currently learning DSA and learning Git<br>💬 Ask me about IoT Related Stuffs<br>⚡ Fun fact: DSA, DEV and System Design is what will land you a Job in Product Based Companies
 
