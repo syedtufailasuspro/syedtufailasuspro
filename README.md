@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Full Stack web<br>👯 I’m looking to collaborate on Full Stack and IoT Projects<br>🌱 I’m currently learning DSA and learning Git<br>💬 Ask me about IoT Related Stuffs<br>⚡ Fun fact: DSA, DEV and System Design is what will land you a Job in Product Based Companies
+🔭 I’m currently working on Iot project named SAVDHAN module<br>👯 I’m looking to collaborate on Full Stack and IoT Projects<br>🌱 I’m currently learning DSA along with version control systems like Git<br>💬 Ask me about IoT Related Stuffs<br>⚡ Fun fact: DSA, DEV and System Design is what will land you a Job in Product Based Companies
 
 
 ## 🌐 Socials:
