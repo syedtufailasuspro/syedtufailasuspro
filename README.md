@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnpuaXExdGd4NXQ0NGN6eThwNjFsY2RhdHlxd3JkOGdrN25mOWxiOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o4ol10gKdcKdueRxyZ/giphy.gif" width="400">
+  <img src="https://maxmautner.com/public/images/django.gif" width="400">
 </p>
 
 <h1 align="center">Hey Everyone! 👋, I'm Syed Tufail Ahmed</h1>
